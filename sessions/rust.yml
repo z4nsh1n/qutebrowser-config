@@ -1,0 +1,131 @@
+windows:
+- active: true
+  geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAB3sAAAP8AAAAAAAAAAAAAAd7AAAD/AAAAAAAAAAAB4AAAAAAAAAA
+    AAAAB3sAAAP8
+  tabs:
+  - history:
+    - active: true
+      last_visited: '2023-10-29T20:10:59'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Newsletter – Zoë Harcombe
+      url: https://www.zoeharcombe.com/category/newsletter/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-10-29T20:11:03'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Results for stdin - Rust
+      url: https://doc.rust-lang.org/std/index.html?search=stdin
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-10-29T20:11:51'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 57695
+      title: 'rust-unofficial/awesome-rust: A curated list of Rust code and resources.'
+      url: https://github.com/rust-unofficial/awesome-rust#resources
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-10-29T21:29:39'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Introduction - Rust Design Patterns
+      url: https://rust-unofficial.github.io/patterns/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-10-29T21:29:46'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Effective Rust
+      url: https://www.lurklurk.org/effective-rust/
+      zoom: 1.0
+  - history:
+    - last_visited: '2023-10-29T20:10:55'
+      pinned: false
+      title: "Structs - Comprehensive Rust \U0001F980"
+      url: https://google.github.io/comprehensive-rust/structs.html
+    - last_visited: '2023-10-29T21:27:01'
+      pinned: false
+      title: "Methods - Comprehensive Rust \U0001F980"
+      url: https://google.github.io/comprehensive-rust/methods.html
+    - last_visited: '2023-10-29T21:27:04'
+      pinned: false
+      title: "Method Receiver - Comprehensive Rust \U0001F980"
+      url: https://google.github.io/comprehensive-rust/methods/receiver.html
+    - last_visited: '2023-10-29T21:27:08'
+      pinned: false
+      title: "Example - Comprehensive Rust \U0001F980"
+      url: https://google.github.io/comprehensive-rust/methods/example.html
+    - last_visited: '2023-10-29T21:27:10'
+      pinned: false
+      title: "Method Receiver - Comprehensive Rust \U0001F980"
+      url: https://google.github.io/comprehensive-rust/methods/receiver.html
+    - last_visited: '2023-10-29T21:27:48'
+      pinned: false
+      title: "Exercises - Comprehensive Rust \U0001F980"
+      url: https://google.github.io/comprehensive-rust/exercises/day-2/morning.html
+    - active: true
+      last_visited: '2023-10-29T21:27:56'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: "Storing Books - Comprehensive Rust \U0001F980"
+      url: https://google.github.io/comprehensive-rust/exercises/day-2/book-library.html
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2023-10-29T20:11:17'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'jamesmunns/awesome-rust-streaming: A community curated list of Rust
+        Language streamers'
+      url: https://github.com/jamesmunns/awesome-rust-streaming
+      zoom: 1.0
+  - history:
+    - last_visited: '2023-10-29T20:10:55'
+      pinned: false
+      title: Building a Single-Threaded Web Server - The Rust Programming Language
+      url: https://doc.rust-lang.org/book/ch20-01-single-threaded.html
+    - active: true
+      last_visited: '2023-10-29T21:25:53'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 188
+      title: 'Final Project: Building a Multithreaded Web Server - The Rust Programming
+        Language'
+      url: https://doc.rust-lang.org/book/ch20-00-final-project-a-web-server.html
+      zoom: 1.0
+  - active: true
+    history:
+    - last_visited: '2023-10-29T21:31:28'
+      pinned: false
+      title: about:blank
+      url: about:blank
+    - active: true
+      last_visited: '2023-10-29T21:31:33'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 28851
+      title: Commands
+      url: qute://help/commands.html#session-save
+      zoom: 1.0

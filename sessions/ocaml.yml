@@ -1,0 +1,445 @@
+windows:
+- active: true
+  geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAB3UAAAQPAAAAAAAAAAAAAAMfAAACVwAAAAACAAAAB4AAAAAAAAAA
+    AAAAB3UAAAQP
+  tabs:
+  - history:
+    - last_visited: '2024-01-06T01:17:33'
+      pinned: false
+      title: Zig Build System ⚡ Zig Programming Language
+      url: https://ziglang.org/learn/build-system/
+    - last_visited: '2024-01-06T01:17:37'
+      pinned: false
+      title: Zig Build System ⚡ Zig Programming Language
+      url: https://ziglang.org/learn/build-system/#installing-build-artifacts
+    - active: true
+      last_visited: '2024-01-06T01:31:42'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 40
+      title: Community · ziglang/zig Wiki
+      url: https://github.com/ziglang/zig/wiki/Community
+      zoom: 1.0
+    - last_visited: '2024-01-06T01:31:40'
+      pinned: false
+      title: '#zig on 2024-01-06 — irc logs at freenode.irclog.whitequark.org'
+      url: https://freenode.irclog.whitequark.org/zig/2024-01-06
+    - last_visited: '2024-01-06T01:31:40'
+      pinned: false
+      title: '#gridcoin on 2024-01-06 — irc logs at freenode.irclog.whitequark.org'
+      url: https://freenode.irclog.whitequark.org/gridcoin/2024-01-06
+    - last_visited: '2024-01-06T01:31:39'
+      pinned: false
+      title: '#gridcoin on 2024-01-06 — irc logs at freenode.irclog.whitequark.org'
+      url: https://freenode.irclog.whitequark.org/gridcoin/2024-01-06#;
+    - last_visited: '2024-01-06T01:31:28'
+      original-url: https://freenode.irclog.whitequark.org/libreoffice-ru/
+      pinned: false
+      title: '#libreoffice-ru on 2024-01-06 — irc logs at freenode.irclog.whitequark.org'
+      url: https://freenode.irclog.whitequark.org/libreoffice-ru/2024-01-06
+  - history:
+    - last_visited: '2024-01-06T01:35:34'
+      pinned: false
+      title: (13) Ziggit - A Zig community
+      url: https://ziggit.dev/
+    - last_visited: '2024-01-07T04:46:06'
+      pinned: false
+      title: Categories - Ziggit
+      url: https://ziggit.dev/categories
+    - last_visited: '2024-01-07T04:46:11'
+      pinned: false
+      title: Latest News topics - Ziggit
+      url: https://ziggit.dev/c/news/8
+    - last_visited: '2024-01-07T04:46:15'
+      pinned: false
+      title: Categories - Ziggit
+      url: https://ziggit.dev/categories
+    - active: true
+      last_visited: '2024-01-07T04:46:37'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 2160
+      title: (1) Latest Showcase topics - Ziggit
+      url: https://ziggit.dev/c/showcase/7
+      zoom: 1.0
+  - history:
+    - last_visited: '2024-01-07T04:56:40'
+      pinned: false
+      title: Ray tracing with Zig and WASM - Showcase - Ziggit
+      url: https://ziggit.dev/t/ray-tracing-with-zig-and-wasm/1738
+    - active: true
+      last_visited: '2024-01-07T04:56:46'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 4280
+      title: (3) Ziggit
+      url: https://ziggit.dev/latest
+      zoom: 1.5
+  - history:
+    - last_visited: '2024-01-07T04:59:04'
+      pinned: false
+      title: zig-webui,Use any web browser as GUI with Zig - Showcase - Ziggit
+      url: https://ziggit.dev/t/zig-webui-use-any-web-browser-as-gui-with-zig/2667
+    - active: true
+      last_visited: '2024-01-07T05:10:28'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'webui-dev/zig-webui: Use any web browser as GUI, with Zig in the backend
+        and HTML5 in the frontend.'
+      url: https://github.com/webui-dev/zig-webui
+      zoom: 1.5
+  - history:
+    - last_visited: '2024-01-07T03:10:18'
+      pinned: false
+      title: Latest untagged topics - Ziggit
+      url: https://ziggit.dev/tag/package-management
+    - active: true
+      last_visited: '2024-01-07T04:44:47'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: (4) Ziggit - A Zig community
+      url: https://ziggit.dev/
+      zoom: 1.0
+  - history:
+    - last_visited: '2024-01-06T01:39:47'
+      pinned: false
+      title: Want to create a TUI application? - The Basics of "Uncooked" Terminal
+        IO - Zig NEWS
+      url: https://zig.news/lhp/want-to-create-a-tui-application-the-basics-of-uncooked-terminal-io-17gm
+    - last_visited: '2024-01-06T02:03:59'
+      pinned: false
+      title: Terminal - Zig NEWS
+      url: https://zig.news/t/terminal
+    - last_visited: '2024-01-06T02:04:08'
+      pinned: false
+      title: Zig NEWS
+      url: https://zig.news/
+    - last_visited: '2024-01-06T03:41:22'
+      pinned: false
+      title: Search Results for terminal - Zig NEWS
+      url: https://zig.news/search?q=terminal
+    - last_visited: '2024-01-06T03:41:24'
+      pinned: false
+      title: Zig NEWS
+      url: https://zig.news/
+    - active: true
+      last_visited: '2024-01-07T05:25:31'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 520
+      title: Zig NEWS
+      url: https://zig.news/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-01-07T05:25:54'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 480
+      title: 'Wayland From the Wire: Part 1 - Zig NEWS'
+      url: https://zig.news/leroycep/wayland-from-the-wire-part-1-12a1
+      zoom: 1.0
+  - history:
+    - last_visited: '2024-01-07T11:54:05'
+      pinned: false
+      title: (4044) How to Use Abstraction to Kill Your API - Jonathan Marler - Software
+        You Can Love Vancouver 2023 - YouTube
+      url: https://www.youtube.com/watch?v=aPWFLkHRIAQ
+    - active: true
+      last_visited: '2024-01-07T11:54:05'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: (4050) Zig SHOWTIME - YouTube
+      url: https://www.youtube.com/@ZigSHOWTIME
+      zoom: 1.0
+  - history:
+    - last_visited: '2024-01-06T13:32:01'
+      pinned: false
+      title: Documentation - The Zig Programming Language
+      url: https://ziglang.org/documentation/master/
+    - last_visited: '2024-01-06T13:32:34'
+      pinned: false
+      title: Documentation - The Zig Programming Language
+      url: https://ziglang.org/documentation/master/#Pointers
+    - last_visited: '2024-01-06T14:11:40'
+      pinned: false
+      title: Documentation - The Zig Programming Language
+      url: https://ziglang.org/documentation/master/#Arrays
+    - last_visited: '2024-01-06T14:15:30'
+      pinned: false
+      title: Documentation - The Zig Programming Language
+      url: https://ziglang.org/documentation/master/#struct
+    - last_visited: '2024-01-06T19:35:05'
+      pinned: false
+      title: Documentation - The Zig Programming Language
+      url: https://ziglang.org/documentation/master/#enum
+    - last_visited: '2024-01-06T19:51:15'
+      pinned: false
+      title: Documentation - The Zig Programming Language
+      url: https://ziglang.org/documentation/0.11.0/
+    - last_visited: '2024-01-06T19:51:20'
+      pinned: false
+      title: Documentation - The Zig Programming Language
+      url: https://ziglang.org/documentation/0.11.0/#union
+    - last_visited: '2024-01-07T04:09:05'
+      pinned: false
+      title: Documentation - The Zig Programming Language
+      url: https://ziglang.org/documentation/master/
+    - last_visited: '2024-01-07T04:10:30'
+      pinned: false
+      title: Documentation - The Zig Programming Language
+      url: https://ziglang.org/documentation/0.11.0/
+    - active: true
+      last_visited: '2024-01-07T04:21:56'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 6821
+      title: Documentation - The Zig Programming Language
+      url: https://ziglang.org/documentation/master/
+      zoom: 1.25
+  - history:
+    - last_visited: '2024-01-07T00:00:07'
+      pinned: false
+      title: (4042) root42 - YouTube
+      url: https://www.youtube.com/@root42
+    - last_visited: '2024-01-07T00:00:07'
+      pinned: false
+      title: (4043) root42 - YouTube
+      url: https://www.youtube.com/@root42/playlists
+    - last_visited: '2024-01-07T03:01:30'
+      pinned: false
+      title: (4043) root42 - YouTube
+      url: https://www.youtube.com/@root42/playlists
+    - last_visited: '2024-01-07T03:01:30'
+      pinned: false
+      title: (4043) root42 - YouTube
+      url: https://www.youtube.com/@root42/playlists
+    - last_visited: '2024-01-07T03:01:30'
+      pinned: false
+      title: (4043) root42 - YouTube
+      url: https://www.youtube.com/@root42/playlists
+    - last_visited: '2024-01-07T03:01:30'
+      pinned: false
+      title: (4043) root42 - YouTube
+      url: https://www.youtube.com/@root42/playlists
+    - last_visited: '2024-01-07T03:07:19'
+      pinned: false
+      title: (4043) root42 - YouTube
+      url: https://www.youtube.com/@root42/playlists
+    - last_visited: '2024-01-07T03:07:20'
+      pinned: false
+      title: (4043) root42 - YouTube
+      url: https://www.youtube.com/@root42/playlists
+    - last_visited: '2024-01-07T03:07:29'
+      pinned: false
+      title: (4043) root42 - YouTube
+      url: https://www.youtube.com/@root42/playlists
+    - last_visited: '2024-01-07T03:07:30'
+      pinned: false
+      title: (4043) root42 - YouTube
+      url: https://www.youtube.com/@root42/playlists
+    - last_visited: '2024-01-07T03:07:30'
+      pinned: false
+      title: (4043) root42 - YouTube
+      url: https://www.youtube.com/@root42/playlists
+    - last_visited: '2024-01-07T03:07:31'
+      pinned: false
+      title: (4043) root42 - YouTube
+      url: https://www.youtube.com/@root42/playlists
+    - last_visited: '2024-01-07T03:07:31'
+      pinned: false
+      title: (4043) root42 - YouTube
+      url: https://www.youtube.com/@root42/playlists
+    - active: true
+      last_visited: '2024-01-07T03:07:31'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 521
+      title: (4050) root42 - YouTube
+      url: https://www.youtube.com/@root42/playlists
+      zoom: 1.0
+  - history:
+    - last_visited: '2024-01-07T03:26:20'
+      pinned: false
+      title: Git - git-archive Documentation
+      url: https://git-scm.com/docs/git-archive
+    - last_visited: '2024-01-07T03:31:04'
+      pinned: false
+      title: Git - Documentation
+      url: https://git-scm.com/doc
+    - active: true
+      last_visited: '2024-01-07T03:31:10'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 440
+      title: Git - Reference
+      url: https://git-scm.com/docs
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-01-07T11:47:06'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: jonathan marler 8997 zig twitch - Google Zoeken
+      url: https://www.google.nl/search?q=jonathan%20marler%208997%20zig%20twitch
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-01-07T11:52:44'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: marler8997 (Jonathan Marler)
+      url: https://github.com/marler8997
+      zoom: 1.25
+  - history:
+    - active: true
+      last_visited: '2024-01-07T14:57:37'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 1560
+      title: marler8997 (marler8997) / Repositories
+      url: https://github.com/marler8997?tab=repositories
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-01-07T14:53:53'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 756
+      title: 'superjer/tinyc.games: Tiny C games you can compile and run RIGHT NOW'
+      url: https://github.com/superjer/tinyc.games
+      zoom: 1.0
+    - last_visited: '2024-01-07T14:53:52'
+      pinned: false
+      title: tinyc.games/flappy-game at main · superjer/tinyc.games
+      url: https://github.com/superjer/tinyc.games/tree/main/flappy-game
+    - last_visited: '2024-01-07T14:52:41'
+      pinned: false
+      title: tinyc.games/flappy-game/flappy.c at main · superjer/tinyc.games
+      url: https://github.com/superjer/tinyc.games/blob/main/flappy-game/flappy.c
+  - history:
+    - last_visited: '2024-01-07T15:23:11'
+      pinned: false
+      title: (4050) Showing Zig how to see through Bill Gate's Windows - Jonathan
+        Marler - YouTube
+      url: https://www.youtube.com/watch?app=desktop&v=HsnWZxrf5VE
+    - last_visited: '2024-01-07T15:23:11'
+      pinned: false
+      title: (4050) Zig SHOWTIME - YouTube
+      url: https://www.youtube.com/@ZigSHOWTIME
+    - last_visited: '2024-01-07T15:23:42'
+      pinned: false
+      title: (4050) Zig SHOWTIME - YouTube
+      url: https://www.youtube.com/@ZigSHOWTIME/videos
+    - last_visited: '2024-01-07T15:23:44'
+      pinned: false
+      title: (4050) Zig SHOWTIME - YouTube
+      url: https://www.youtube.com/@ZigSHOWTIME/videos
+    - active: true
+      last_visited: '2024-01-07T15:23:44'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 12062
+      title: (4050) Zig SHOWTIME - YouTube
+      url: https://www.youtube.com/@ZigSHOWTIME/videos
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-01-07T15:25:42'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: '(4050) Ziglibc: Sweeping out the rug from underneath C - Jonathan Marler
+        - Software You Can Love 2022 - YouTube'
+      url: https://www.youtube.com/watch?v=1N85yU6RMcY
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-01-07T15:28:47'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: (4050) A Look at Zig's Built-ins - Loris Cro - YouTube
+      url: https://www.youtube.com/watch?v=V0sthxzzN3U
+      zoom: 1.0
+  - active: true
+    history:
+    - last_visited: '2024-01-07T15:31:47'
+      pinned: false
+      title: twitch jhonnymarler - Google Zoeken
+      url: https://www.google.nl/search?q=twitch%20jhonnymarler
+    - last_visited: '2024-01-07T15:31:51'
+      pinned: false
+      title: Twitch
+      url: https://m.twitch.tv/clip/WimpyFreezingSwordTheRinger-kz3TwAVUClMOX0RS
+    - last_visited: '2024-01-07T15:34:25'
+      pinned: false
+      title: Twitch
+      url: https://m.twitch.tv/kristoff_it/home
+    - active: true
+      last_visited: '2024-01-07T15:34:29'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: kristoff_it Videos - Twitch
+      url: https://m.twitch.tv/kristoff_it/videos
+      zoom: 1.0
+  - history:
+    - last_visited: '2024-01-07T15:32:22'
+      pinned: false
+      title: Twitch
+      url: https://m.twitch.tv/
+    - last_visited: '2024-01-07T15:32:26'
+      pinned: false
+      title: Twitch
+      url: https://m.twitch.tv/search
+    - last_visited: '2024-01-07T15:32:38'
+      pinned: false
+      title: Twitch
+      url: https://m.twitch.tv/johnnymarler/home
+    - last_visited: '2024-01-07T15:32:52'
+      pinned: false
+      title: Twitch
+      url: https://m.twitch.tv/johnnymarler/videos
+    - last_visited: '2024-01-07T15:34:41'
+      pinned: false
+      title: Twitch
+      url: https://m.twitch.tv/johnnymarler/home
+    - last_visited: '2024-01-07T15:35:19'
+      pinned: false
+      title: johnnymarler Videos - Twitch
+      url: https://m.twitch.tv/johnnymarler/videos
+    - active: true
+      last_visited: '2024-01-07T15:35:24'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Twitch
+      url: https://m.twitch.tv/johnnymarler/home
+      zoom: 1.0

@@ -1,0 +1,610 @@
+windows:
+- geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAB3MAAAQNAAAAAAAAAAAAAAd/AAAENwAAAAACAAAAB4AAAAAAAAAA
+    AAAAB3MAAAQN
+  tabs:
+  - history:
+    - last_visited: '2024-08-25T00:29:26'
+      pinned: false
+      title: Introduction / Nature of Code
+      url: https://natureofcode.com/introduction/
+    - active: true
+      last_visited: '2024-08-25T00:29:31'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Introduction / Nature of Code
+      url: https://natureofcode.com/introduction/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-08-25T00:29:27'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: A half-hour to learn Rust
+      url: https://fasterthanli.me/articles/a-half-hour-to-learn-rust
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-08-25T00:29:36'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'zig-gamedev/zig-gamedev: Main monorepo for @zig-gamedev libs and example
+        applications'
+      url: https://github.com/zig-gamedev/zig-gamedev
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-08-25T00:29:26'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: raylib - cheatsheet
+      url: https://www.raylib.com/cheatsheet/cheatsheet.html
+      zoom: 1.0
+  - active: true
+    history:
+    - active: true
+      last_visited: '2024-08-25T00:29:27'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 103012
+      title: Documentation - The Zig Programming Language
+      url: https://ziglang.org/documentation/master/#for
+      zoom: 1.1
+  - history:
+    - active: true
+      last_visited: '2024-08-28T17:06:55'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: (479) YouTube
+      url: https://www.youtube.com/
+      zoom: 1.0
+- active: true
+  geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAB3MAAAQNAAAAAAAAAAAAAAd/AAAENwAAAAACAAAAB4AAAAAAAAAA
+    AAAAB3MAAAQN
+  tabs:
+  - history:
+    - active: true
+      last_visited: '2024-08-25T00:29:27'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Labelled Blocks | zig.guide
+      url: https://zig.guide/language-basics/labelled-blocks/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-08-25T00:29:26'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 9
+      title: FOSDEM 2024 - The Four Horsemen of Bad Rust Code
+      url: https://fosdem.org/2024/schedule/event/fosdem-2024-2434-the-four-horsemen-of-bad-rust-code/
+      zoom: 1.0
+  - history:
+    - last_visited: '2024-08-30T22:43:50'
+      pinned: false
+      title: FOSDEM 2024 - Home
+      url: https://fosdem.org/2024/
+    - last_visited: '2024-08-30T22:44:05'
+      pinned: false
+      title: FOSDEM - video recordings
+      url: https://video.fosdem.org/2024/
+    - active: true
+      last_visited: '2024-08-30T22:44:15'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 178
+      title: FOSDEM - video recordings
+      url: https://video.fosdem.org/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-08-30T22:52:38'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 278
+      title: FOSDEM 2018 - Rust devroom
+      url: https://archive.fosdem.org/2018/schedule/track/rust/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-08-30T22:28:28'
+      original-url: https://corrode.dev/idiomatic-rust/
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 1673
+      title: Learning Material for Idiomatic Rust | corrode Rust Consulting
+      url: https://corrode.dev/blog/idiomatic-rust-resources/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-08-31T08:04:05'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 120
+      title: 'hecto: Build Your Own Text Editor in Rust | philipp''s blog'
+      url: https://www.flenker.blog/hecto/
+      zoom: 1.5
+  - history:
+    - last_visited: '2024-08-31T08:20:21'
+      pinned: false
+      title: philipp's blog
+      url: https://flenker.blog/
+    - active: true
+      last_visited: '2024-08-31T08:20:36'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Blog | philipp's blog
+      url: https://flenker.blog/blog/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-08-31T08:39:22'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'hecto: Change Log | philipp''s blog'
+      url: https://flenker.blog/hecto-change-log/
+      zoom: 1.0
+  - history:
+    - last_visited: '2024-08-31T08:48:49'
+      pinned: false
+      title: 'hecto: Build Your Own Text Editor in Rust | philipp''s blog'
+      url: https://flenker.blog/hecto/
+    - last_visited: '2024-08-31T08:49:45'
+      pinned: false
+      title: 'hecto, Chapter 1: Setup | philipp''s blog'
+      url: https://flenker.blog/hecto-chapter-1/
+    - last_visited: '2024-08-31T11:37:15'
+      pinned: false
+      title: 'hecto, Chapter 2: Entering Raw Mode | philipp''s blog'
+      url: https://flenker.blog/hecto-chapter-2/
+    - last_visited: '2024-08-31T13:27:54'
+      pinned: false
+      title: 'hecto, Chapter 3: Raw Input and Output | philipp''s blog'
+      url: https://flenker.blog/hecto-chapter-3/
+    - active: true
+      last_visited: '2024-09-01T10:18:32'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 160
+      title: 'hecto, Chapter 4: A Text Viewer | philipp''s blog'
+      url: https://flenker.blog/hecto-chapter-4/
+      zoom: 1.25
+  - history:
+    - active: true
+      last_visited: '2024-08-31T08:04:44'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: (478) Pascal Hertleif - Writing Idiomatic Libraries in Rust - YouTube
+      url: https://www.youtube.com/watch?v=0zOg8_B71gE
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-08-31T08:05:11'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Introduction - Rust Design Patterns
+      url: https://rust-unofficial.github.io/patterns/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-08-31T08:05:21'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 10
+      title: 'ferrous-systems/elements-of-rust: rust style and philosophy'
+      url: https://github.com/ferrous-systems/elements-of-rust
+      zoom: 1.25
+  - history:
+    - last_visited: '2024-09-01T15:22:49'
+      pinned: false
+      title: 'elhackerlibre/.config-qutebrowser: my qutebrowser configuration file'
+      url: https://github.com/elhackerlibre/.config-qutebrowser
+    - active: true
+      last_visited: '2024-09-01T15:22:50'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 760
+      title: .config-qutebrowser/config.py at master · elhackerlibre/.config-qutebrowser
+      url: https://github.com/elhackerlibre/.config-qutebrowser/blob/master/config.py
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-09-01T15:24:19'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: about:blank
+      url: about:blank
+      zoom: 1.0
+  - active: true
+    history:
+    - active: true
+      last_visited: '2024-09-01T15:24:24'
+      original-url: qute://bindings
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 15698
+      title: Bindings
+      url: qute://bindings/
+      zoom: 1.0
+- geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAB3MAAAQNAAAAAAAAAAAAAAd/AAAENwAAAAACAAAAB4AAAAAAAAAA
+    AAAAB3MAAAQN
+  tabs:
+  - history:
+    - last_visited: '2024-08-28T21:33:42'
+      pinned: false
+      title: (389) making a game in zig (i have never used zig) LIVE! - YouTube
+      url: https://www.youtube.com/watch?v=ajbYYgbDXGk
+    - active: true
+      last_visited: '2024-08-28T21:33:42'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: (478) jdh - YouTube
+      url: https://www.youtube.com/@jdh
+      zoom: 1.0
+  - history:
+    - last_visited: '2024-08-28T21:47:46'
+      pinned: false
+      title: (390) ThinMatrix - YouTube
+      url: https://www.youtube.com/@ThinMatrix
+    - last_visited: '2024-08-28T21:47:46'
+      pinned: false
+      title: (390) ThinMatrix - YouTube
+      url: https://www.youtube.com/@ThinMatrix/videos
+    - last_visited: '2024-08-28T21:48:24'
+      pinned: false
+      title: (390) ThinMatrix - YouTube
+      url: https://www.youtube.com/@ThinMatrix/playlists
+    - last_visited: '2024-08-28T22:09:14'
+      pinned: false
+      title: (390) ThinMatrix - YouTube
+      url: https://www.youtube.com/@ThinMatrix/playlists
+    - last_visited: '2024-08-28T22:09:14'
+      pinned: false
+      title: (390) ThinMatrix - YouTube
+      url: https://www.youtube.com/@ThinMatrix/playlists
+    - last_visited: '2024-08-28T22:09:15'
+      pinned: false
+      title: (390) ThinMatrix - YouTube
+      url: https://www.youtube.com/@ThinMatrix/playlists
+    - last_visited: '2024-08-28T22:09:15'
+      pinned: false
+      title: (390) ThinMatrix - YouTube
+      url: https://www.youtube.com/@ThinMatrix/playlists
+    - last_visited: '2024-08-28T22:09:16'
+      pinned: false
+      title: (390) ThinMatrix - YouTube
+      url: https://www.youtube.com/@ThinMatrix/playlists
+    - active: true
+      last_visited: '2024-08-28T22:09:23'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 159
+      title: (478) ThinMatrix - YouTube
+      url: https://www.youtube.com/@ThinMatrix/playlists
+      zoom: 1.0
+  - history:
+    - last_visited: '2024-08-28T21:48:44'
+      pinned: false
+      title: (390) Tantan - YouTube
+      url: https://www.youtube.com/@Tantandev
+    - last_visited: '2024-08-28T21:48:44'
+      pinned: false
+      title: (390) Tantan - YouTube
+      url: https://www.youtube.com/@Tantandev/videos
+    - last_visited: '2024-08-28T21:58:54'
+      pinned: false
+      title: (390) Tantan - YouTube
+      url: https://www.youtube.com/@Tantandev/videos
+    - active: true
+      last_visited: '2024-08-28T21:58:54'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 3912
+      title: (479) Tantan - YouTube
+      url: https://www.youtube.com/@Tantandev/videos
+      zoom: 1.0
+  - active: true
+    history:
+    - last_visited: '2024-08-28T21:49:45'
+      pinned: false
+      title: (390) Sebastian Lague - YouTube
+      url: https://www.youtube.com/@SebastianLague
+    - last_visited: '2024-08-28T21:49:45'
+      pinned: false
+      title: (390) Sebastian Lague - YouTube
+      url: https://www.youtube.com/@SebastianLague/videos
+    - active: true
+      last_visited: '2024-08-28T21:51:24'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: (478) Sebastian Lague - YouTube
+      url: https://www.youtube.com/@SebastianLague/playlists
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-08-25T00:29:27'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Learning Zig - Heap Memory & Allocators
+      url: https://www.openmymind.net/learning_zig/heap_memory/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-08-25T00:29:27'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Allocators | zig.guide
+      url: https://zig.guide/standard-library/allocators/
+      zoom: 1.0
+- geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAB3MAAAQNAAAAAAAAAAAAAAd/AAAENwAAAAACAAAAB4AAAAAAAAAA
+    AAAAB3MAAAQN
+  tabs:
+  - history:
+    - active: true
+      last_visited: '2024-08-25T00:29:27'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: YouTube
+      url: https://www.youtube.com/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-08-25T00:29:27'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: The Rise of the Intuitive Introvert (Carl Jung Explains) - YouTube
+      url: https://www.youtube.com/watch?v=dCGVGNJwDzQ
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-08-25T00:29:28'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: (478) Crust of Rust - YouTube
+      url: https://www.youtube.com/playlist?list=PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-08-25T00:29:27'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: (478) Live-coding a linked hash map in Rust - YouTube
+      url: https://www.youtube.com/watch?v=k6xR2kf9hlA
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-08-25T00:29:27'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: (479) Heartbeast - YouTube
+      url: https://www.youtube.com/@uheartbeast/playlists
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-08-25T00:29:28'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Godot Rust · Hagsteel
+      url: https://hagsteel.com/posts/godot-rust/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-08-25T00:29:27'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Simple but Powerful Pratt Parsing
+      url: https://matklad.github.io/2020/04/13/simple-but-powerful-pratt-parsing.html
+      zoom: 1.0
+  - active: true
+    history:
+    - active: true
+      last_visited: '2024-08-25T00:29:27'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Hard Mode Rust
+      url: https://matklad.github.io/2022/10/06/hard-mode-rust.html
+      zoom: 1.0
+- geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAB3MAAAQNAAAAAAAAAAAAAAd/AAAENwAAAAACAAAAB4AAAAAAAAAA
+    AAAAB3MAAAQN
+  tabs:
+  - history:
+    - active: true
+      last_visited: '2024-08-27T21:10:31'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 2100
+      title: 'codecrafters-io/build-your-own-x: Master programming by recreating your
+        favorite technologies from scratch.'
+      url: https://github.com/codecrafters-io/build-your-own-x#build-your-own-game
+      zoom: 1.0
+  - history:
+    - last_visited: '2024-08-29T17:09:44'
+      pinned: false
+      title: 'Day 2: Parsing Bencode - Nim Days'
+      url: https://xmonader.github.io/nimdays/day02_bencode.html
+    - last_visited: '2024-08-29T17:11:27'
+      pinned: false
+      title: Intro - Nim Days
+      url: https://xmonader.github.io/nimdays/book_intro.html
+    - last_visited: '2024-08-29T17:12:03'
+      pinned: false
+      title: Day 1 DMIDecode - Nim Days
+      url: https://xmonader.github.io/nimdays/day01_dmidecode.html
+    - last_visited: '2024-08-29T17:18:02'
+      pinned: false
+      title: 'Day 2: Parsing Bencode - Nim Days'
+      url: https://xmonader.github.io/nimdays/day02_bencode.html
+    - active: true
+      last_visited: '2024-08-29T17:19:13'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 6329
+      title: 'Day 5: INI Parser - Nim Days'
+      url: https://xmonader.github.io/nimdays/day05_iniparser.html
+      zoom: 1.25
+  - history:
+    - active: true
+      last_visited: '2024-08-29T17:10:11'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'DoctorWkt/acwj: A Compiler Writing Journey'
+      url: https://github.com/DoctorWkt/acwj
+      zoom: 1.0
+  - history:
+    - last_visited: '2024-08-29T17:20:45'
+      pinned: false
+      title: acwj/02_Parser/Readme.md at master · DoctorWkt/acwj
+      url: https://github.com/DoctorWkt/acwj/blob/master/02_Parser/Readme.md
+    - last_visited: '2024-08-29T17:31:11'
+      pinned: false
+      title: acwj/03_Precedence at master · DoctorWkt/acwj
+      url: https://github.com/DoctorWkt/acwj/tree/master/03_Precedence
+    - active: true
+      last_visited: '2024-08-29T17:36:05'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 130
+      title: acwj/00_Introduction at master · DoctorWkt/acwj
+      url: https://github.com/DoctorWkt/acwj/tree/master/00_Introduction
+      zoom: 1.25
+  - history:
+    - active: true
+      last_visited: '2024-08-27T23:19:32'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: (479) You Should Really Know These Traits in Rust - YouTube
+      url: https://www.youtube.com/watch?v=tWa19Td87gw
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-08-29T17:07:33'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: (479) Practical Rust Projects - Applied Rust - YouTube
+      url: https://www.youtube.com/playlist?list=PLK_g1a_cAfaZDdybJzwI1m7AVl4tSo87Z
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-08-29T17:07:43'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 2500
+      title: (479) The Rust Programming Language - Tutorials - YouTube
+      url: https://www.youtube.com/playlist?list=PLK_g1a_cAfaaAO6io1Tluy7EZXhAAK1lC
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2024-08-27T23:18:17'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: (479) Practical Rust Projects - Applied Rust - YouTube
+      url: https://www.youtube.com/playlist?list=PLK_g1a_cAfaZDdybJzwI1m7AVl4tSo87Z
+      zoom: 1.0
+  - active: true
+    history:
+    - active: true
+      last_visited: '2024-08-27T22:48:49'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 5440
+      title: (479) Rust Book - YouTube
+      url: https://www.youtube.com/playlist?list=PLrmY5pVcnuE_dyWibakRuGJcuiwAkhGZB
+      zoom: 1.0
+- geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAB3MAAAQNAAAAAAAAAAAAAAd/AAAENwAAAAACAAAAB4AAAAAAAAAA
+    AAAAB3MAAAQN
+  tabs:
+  - active: true
+    history:
+    - last_visited: '2024-08-31T12:32:08'
+      pinned: false
+      title: file:///home/zanshin/index.html
+      url: file:///home/zanshin/index.html
+    - last_visited: '2024-08-31T12:32:28'
+      pinned: false
+      title: WhatsApp
+      url: https://web.whatsapp.com/
+    - active: true
+      last_visited: '2024-08-31T12:32:49'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: (1) WhatsApp
+      url: https://web.whatsapp.com/
+      zoom: 1.0
