@@ -1077,7 +1077,9 @@ c.fonts.default_family = "JetBrains Mono"
 ## either a float value with a "pt" suffix, or an integer value with a
 ## "px" suffix.
 ## Type: String
-c.fonts.default_size = '15pt'
+
+c.fonts.default_size = '12pt'
+#c.fonts.default_size = '20pt'
 
 ## Font used for the downloadbar.
 ## Type: Font
@@ -1113,11 +1115,11 @@ c.fonts.default_size = '15pt'
 
 ## Font used for selected tabs.
 ## Type: Font
-c.fonts.tabs.selected = '18px default_family'
+# c.fonts.tabs.selected = '18px default_family'
 
 ## Font used for unselected tabs.
 ## Type: Font
-c.fonts.tabs.unselected = '18px default_family'
+# c.fonts.tabs.unselected = '18px default_family'
 
 ## Font family for cursive fonts.
 ## Type: FontFamily
@@ -1242,12 +1244,18 @@ c.hints.selectors = {'all': ['a', 'area', 'textarea', 'select', 'input:not([type
                      'images': ['img'], 
                      'media': ['audio', 'img', 'video'], 
                      'url': ['[src]', '[href]'], 
+                     'divids': ['div[id]'],
+                     'youtube' : ['ytd-guide-section-renderer'],
                      'inputs': ['input[type="text"]', 'input[type="date"]', 'input[type="datetime-local"]', 'input[type="email"]', 'input[type="month"]', 'input[type="number"]', 'input[type="password"]', 'input[type="search"]', 'input[type="tel"]', 'input[type="time"]', 'input[type="url"]', 'input[type="week"]', 'input:not([type])', '[contenteditable]:not([contenteditable="false"])', 'textarea']
                      }
-c.hints.selectors['scrollable'] = ['body','ytd-app','ytd-browse' ,'div[id="guide-inner-content"]','[player]', '[contents]','[playlist]','[container]', 'div[id="below"]', '[id*="container"]', '[id*="header"]','[class*="header"]','[id*="content"]','[class*="content"]', '[class*="container"]'  ]
 c.hints.selectors['headings'] = ['h1', 'h2', 'h3', 'h4', 'h5']
-c.hints.selectors['testing'] = ['[id*="primary"]']
-config.bind(";s", 'hint scrollable')
+c.hints.selectors['href'] = ['.flex']
+c.hints.selectors['grease'] = ['.__qb_scrollable__']
+
+config.bind(";s", 'hint myscrolls')
+config.bind(";D", 'hint href')
+config.bind(";q", 'hint grease')
+config.bind(";d", 'hint divids')
 config.bind(";H", 'hint headings')
 config.bind(";T", 'hint testing')
 config.bind("td", 'config-cycle colors.webpage.darkmode.enabled true false')
@@ -1438,7 +1446,7 @@ config.bind("td", 'config-cycle colors.webpage.darkmode.enabled true false')
 ## with some bitmap fonts. As an alternative to this, it's possible to
 ## set font sizes and the `zoom.default` setting.
 ## Type: Bool
-# c.qt.highdpi = False
+# c.qt.highdpi = True
 
 ## When to use Chromium's low-end device mode. This improves the RAM
 ## usage of renderer processes, at the expense of performance.
@@ -1835,6 +1843,7 @@ c.url.default_page = "about:blank"  #"file:///home/zanshin/index.html" #'http://
 ## qutebrowser`.
 ## Type: Dict
 c.url.searchengines = {'DEFAULT': 'https://www.google.nl/search?q={}',
+                       'ocamlh' : 'https://www.google.nl/search?q=site%3Ahttps%3A//courses.cs.cornell.edu/cs3110/2021sp/textbook/%20{}',
                        'gpt': 'https://chat.openai.com/chat?q={}',
                        'phind' : 'https://www.phind.com/search?q={}&searchMode=auto&allowMultiSearch=false',
                        'stackoflow': 'https://stackoverflow.com/questions/tagged/{}',
@@ -1857,7 +1866,7 @@ c.url.searchengines = {'DEFAULT': 'https://www.google.nl/search?q={}',
                        'git':'https://github.com/search?q={}&type=repositories',
                        'wa': 'https://wiki.archlinux.org/?search={}',
                        'vpub': 'https://vdoc.pub/search/{}',
-                       'zlib' : 'https://singlelogin.re/s/{}',
+                       'zlib' :'https://z-library.sk/s/{}',
                        'ethy' : 'https://www.etymonline.com/word/{}',
                        'dict' : 'https://dictionary.cambridge.org/dictionary/english/{}',
                        'wb' : 'https://nl.wiktionary.org/wiki/{}',
@@ -1941,6 +1950,9 @@ config.bind('<Ctrl-Alt-8>', 'tab-focus 18')
 config.bind('<Ctrl-Alt-9>', 'tab-focus 19')
 config.bind('<Alt-9>', 'tab-focus 9')
 config.bind('<Alt-0>', 'tab-focus 10')
+config.bind('gT', 'cmd-set-text --space :tab-give')
+config.bind('tT', 'cmd-set-text --space :tab-take')
+config.bind('cr', 'config-source ~/.config/qutebrowser/config.py')
 # config.bind('<Alt-m>', 'tab-mute')
 # config.bind('<Ctrl-A>', 'navigate increment')
 # config.bind('<Ctrl-Alt-p>', 'print')
@@ -1968,8 +1980,10 @@ config.bind('<Alt-h>', 'tab-prev')
 # config.bind('<Ctrl-p>', 'tab-pin')
 # config.bind('<Ctrl-s>', 'stop')
 # config.bind('<Escape>', 'clear-keychain ;; search ;; fullscreen --leave')
+
 # config.bind('<F11>', 'fullscreen')
 config.bind(',r', 'reload')
+config.bind('z', 'search . ;; clear-keychain ;; search ;; fullscreen --leave')
 # config.bind('<Return>', 'follow-selected')
 config.bind('<Ctrl-h>', 'back')
 config.bind('<Ctrl-l>', 'forward')
@@ -2179,7 +2193,7 @@ config.bind('<Ctrl-c>', 'mode-leave', mode='hint')
 
 ## Bindings for insert mode
 # config.bind('<Ctrl-E>', 'open-editor', mode='insert')
-# config.bind('<Escape>', 'leave-mode', mode='insert')
+#config.bind('<Escape>', 'leave-mode', mode='insert')
 # config.bind('<Shift-Ins>', 'insert-text -- {primary}', mode='insert')
 
 ## Bindings for passthrough mode
@@ -2232,3 +2246,12 @@ config.source("./themes/gruvbox.py")
 #config.source("./themes/themes/default/base16-gruvbox-dark-hard.config.py")
 #import themes.dracula.draw
 #themes.dracula.draw.blood(c)
+config.bind('<Ctrl-c>', 'mode-leave', mode='insert')
+config.bind('<Ctrl-f>', 'fake-key <Ctrl-Right>', mode='insert')
+config.bind('<Ctrl-b>', 'fake-key <Ctrl-Left>', mode='insert')
+config.bind('<Ctrl-w>', 'fake-key <Ctrl-Backspace>', mode='insert')
+config.bind('<Ctrl-a>', 'fake-key <Home>', mode='insert')
+config.bind('<Ctrl-e>', 'fake-key <End>', mode='insert')
+config.bind('<Ctrl-u>', 'fake-key <End><Shift-Home><Delete>', mode='insert')
+config.bind('<Ctrl-j>', 'fake-key <Down>', mode='insert')
+config.bind('<Ctrl-k>', 'fake-key <Up>', mode='insert')

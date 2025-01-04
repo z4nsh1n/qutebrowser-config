@@ -38,9 +38,6 @@ qutebrowser userscript shell send https://github.com/Donaim/qutebrowser-shell-se
 haskell lang what I wish I knew http://dev.stephendiehl.com/hask/index.html
 rust lang webdevelopment https://www.arewewebyet.org/
 rust lang game are we game yet https://arewegameyet.rs/
-clojure clojurescript learn clojurescript https://www.learn-clojurescript.com/
-dividend nederland https://dividendinfo.nl/overzicht-nederlandse-aandelen
-bam https://www.belegger.nl/Forum/Topic/1382906/BAM-Groep_BAM-juni-2021.aspx?page=1#13475172
 ebooks lib genesis http://libgen.rs/
 beleggen balans lezen liquiditeit solvabiliteit http://maatwerkbedrijfstrainingen.nl/blog-entry/hoe-lees-je-een-balans-hoe-haal-je-er-waardevolle-informatie-uit#:~:text=Bij%20het%20beoordelen%20van%20een,bezittingen%20materieel%2C%20of%20immaterieel%20zijn.
 Rust lang are we game yet https://arewegameyet.rs/
@@ -290,3 +287,54 @@ roguelike in rust https://tomassedovic.github.io/roguelike-tutorial/
 build your own x in rust https://github.com/osynavets/build-your-own-x-in-rust
 idiomatic rust https://corrode.dev/blog/idiomatic-rust-resources/
 idiomatic rust git https://github.com/mre/idiomatic-rust
+operating system engeneering https://pdos.csail.mit.edu/6.828/2024/schedule.html
+compiler tutorial https://compilers.iecc.com/crenshaw/
+free computer books https://freecomputerbooks.com/sitemap.html
+fosdem video archive https://video.fosdem.org/
+fosdem previous editions https://fosdem.org/2024/archives/
+lisp in 12 lessons https://dept-info.labri.fr/~strandh/Teaching/MTP/Common/David-Lamkins/chapter03.html
+Rust macro book https://veykril.github.io/tlborm/
+Rust macro workshop https://github.com/dtolnay/proc-macro-workshop
+Idiomatic Rust https://corrode.dev/blog/idiomatic-rust-resources/
+Idiomatic Rust 2 https://corrode.dev/blog/
+zig gamdev 2 https://github.com/zig-gamedev/zig-gamedev
+100 exercises to learn rust https://rust-exercises.com/100-exercises/05_ticket_v2/06_fallibility
+C64 demo site (Nice!) https://www.docsnyderspage.com/
+guitar tabs https://www.songsterr.com/
+rekenen voor de pabo https://www.rekenenvoordepabo.nl/gebruiksaanwijzing-zonder-boek/
+friends of haskell https://www.youtube.com/@zfoh/playlists
+json spec https://www.json.org/json-en.html
+neovim lsp setup basics https://dev.to/vonheikemen/can-we-manage-neovims-lsp-client-without-plugins-3mge
+neovim vim plugins NICE! https://dotfyle.com/
+C advanced C concepts https://www.youtube.com/watch?v=U8ssUpmrWzI&list=PL71Y0EmrppR0KyZvQWj63040UEzKQU7n8&index=11
+zig socket tutorial posix https://www.openmymind.net/TCP-Server-In-Zig-Part-1-Single-Threaded/
+awesome yazi https://github.com/AnirudhG07/awesome-yazi
+zig tips for interacting with C https://zig.news/liyu1981/tips-for-interacting-with-c-1oo8
+zig build system explained https://pedropark99.github.io/zig-book/Chapters/07-build-system.html
+awesome cs courses https://github.com/prakhar1989/awesome-courses
+terminal rawmode setup https://viewsourcecode.org/snaptoken/kilo/02.enteringRawMode.html
+haskell learning playlist https://www.youtube.com/playlist?list=PLu6SHDdOToSe7ZOw-mR55j2GEjkNTQgrd
+haskell cis1940 upenn uni https://www.seas.upenn.edu/~cis1940/fall16/
+zig guide https://zig.guide/
+grammar parsing recursive descent https://www.youtube.com/watch?v=ENKT0Z3gldE
+ocaml course cs3110 https://courses.cs.cornell.edu/cs3110/2021sp/textbook/
+zig parser combinators https://devlog.hexops.com/2021/zig-parser-combinators-and-why-theyre-awesome/
+zig iterator pattern https://danthedev.com/2023-01-14-zig-iterators/
+zig interface pattern https://www.openmymind.net/Zig-Interfaces/
+zig interface pattern2 https://medium.com/@jerrythomas_in/exploring-compile-time-interfaces-in-zig-5c1a1a9e59fd
+compiling C to webassembly https://surma.dev/things/c-to-webassembly/
+learn opengl https://learnopengl.com/Getting-started/OpenGL
+zig interop interacting c https://zig.news/liyu1981/tips-for-interacting-with-c-1oo8
+stockcircle guru portfolios https://stockcircle.com/portfolio/seth-klarman#tabs
+The definitive c++ book list https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list
+The definitive C book list https://stackoverflow.com/questions/562303/the-definitive-c-book-guide-and-list
+haskell category theory https://abuseofnotation.github.io/category-theory-illustrated/
+category theory illustrated https://abuseofnotation.github.io/category-theory-illustrated/01_set/
+A road to common lisp https://stevelosh.com/blog/2018/08/a-road-to-common-lisp/
+lua every thing in one video https://www.youtube.com/watch?v=CuWfgiwI73Q
+awesome odin https://github.com/jakubtomsu/awesome-odin
+roguelike articles https://roguebasin.com/index.php/Articles#Programming_languages
+gmail start https://mail.google.com/mail/u/0/#starred
+gmail star https://mail.google.com/mail/u/0/#starred
+ocaml ffi C https://dev.realworldocaml.org/foreign-function-interface.html
+ haskell for imperative programmers https://www.youtube.com/watch?v=pD7GmxBA_Qw&list=PLe7Ei6viL6jGp1Rfu0dil1JH1SHk9bgDV&index=24
