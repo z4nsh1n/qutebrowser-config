@@ -6,44 +6,5 @@
 
 config_version: 2
 settings:
-  backend:
-    global: webkit
-  bindings.commands:
-    global:
-      command:
-        <Ctrl+c>: mode-leave
-        <Ctrl+j>: completion-item-focus next
-        <Ctrl+k>: completion-item-focus prev
-      normal:
-        ',br': spawn --userscript qute-capture read -f ~/read-later.org -H Read-Later
-        ',bw': spawn --userscript qute-bitwarden
-        ',lp': spawn --userscript qute-lastpass
-        ',m': set-cmd-text -s :quickmark-load -t
-        ',r': reload
-        ',ss': spawn --userscript save_session.sh
-        ;H: hint headings
-        ;T: hint testing
-        ;s: hint scrollable
-        <Alt+0>: tab-focus 10
-        <Alt+9>: tab-focus 9
-        <Alt+h>: tab-prev
-        <Alt+l>: tab-next
-        <Ctrl+Alt+1>: tab-focus 11
-        <Ctrl+Alt+2>: tab-focus 12
-        <Ctrl+Alt+3>: tab-focus 13
-        <Ctrl+Alt+4>: tab-focus 14
-        <Ctrl+Alt+5>: tab-focus 15
-        <Ctrl+Alt+6>: tab-focus 16
-        <Ctrl+Alt+7>: tab-focus 17
-        <Ctrl+Alt+8>: tab-focus 18
-        <Ctrl+Alt+9>: tab-focus 19
-        <Ctrl+h>: back
-        <Ctrl+l>: forward
-        '=': zoom
-        Ctrl+c: mode-leave
-        F: hint all tab-bg
-        yl: hint links yank
   colors.webpage.darkmode.enabled:
-    global: false
-  fonts.default_family:
-    global: Roboto Bold
+    global: true

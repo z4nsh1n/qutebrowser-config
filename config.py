@@ -1244,10 +1244,37 @@ c.hints.selectors = {'all': ['a', 'area', 'textarea', 'select', 'input:not([type
                      'url': ['[src]', '[href]'], 
                      'inputs': ['input[type="text"]', 'input[type="date"]', 'input[type="datetime-local"]', 'input[type="email"]', 'input[type="month"]', 'input[type="number"]', 'input[type="password"]', 'input[type="search"]', 'input[type="tel"]', 'input[type="time"]', 'input[type="url"]', 'input[type="week"]', 'input:not([type])', '[contenteditable]:not([contenteditable="false"])', 'textarea']
                      }
-c.hints.selectors['scrollable'] = ['body','ytd-app','ytd-browse' ,'div[id="guide-inner-content"]','[player]', '[contents]','[playlist]','[container]', 'div[id="below"]', '[id*="container"]', '[id*="header"]','[class*="header"]','[id*="content"]','[class*="content"]', '[class*="container"]'  ]
+c.hints.selectors['myscrolls'] = [
+                               'body',
+                               'ul',
+                               'ol',
+                               'pre',
+                               'figure',
+                               
+                               '[id^="nav"]',
+                               '[class^="nav"]',
+                               ':root',
+                               #'ytd-app',
+                               #'ytd-browse',
+                               # 'div[id="navigation"]',
+                               # 'div[id="guide-inner-content"]',
+                               # '[player]',
+                               # '[contents]',
+                               #'[playlist]',
+                               #'[container]',
+                               #'div[id="below"]',
+                               #'[id*="container"]',
+                               #'[id*="header"]',
+                               #'[class*="header"]',
+                               #'[id*="content"]',
+                               #'[class*="content"]',
+                               #'[class*="container"]'  
+                               ]
 c.hints.selectors['headings'] = ['h1', 'h2', 'h3', 'h4', 'h5']
-c.hints.selectors['testing'] = ['[id*="primary"]']
-config.bind(";s", 'hint scrollable')
+c.hints.selectors['divs'] = ['div']
+
+config.bind(";s", 'hint myscrolls')
+config.bind(";D", 'hint divs')
 config.bind(";H", 'hint headings')
 config.bind(";T", 'hint testing')
 config.bind("td", 'config-cycle colors.webpage.darkmode.enabled true false')
@@ -1857,7 +1884,7 @@ c.url.searchengines = {'DEFAULT': 'https://www.google.nl/search?q={}',
                        'git':'https://github.com/search?q={}&type=repositories',
                        'wa': 'https://wiki.archlinux.org/?search={}',
                        'vpub': 'https://vdoc.pub/search/{}',
-                       'zlib' : 'https://singlelogin.re/s/{}',
+                       'zlib' :'https://z-library.sk/s/{}',
                        'ethy' : 'https://www.etymonline.com/word/{}',
                        'dict' : 'https://dictionary.cambridge.org/dictionary/english/{}',
                        'wb' : 'https://nl.wiktionary.org/wiki/{}',
@@ -1941,6 +1968,9 @@ config.bind('<Ctrl-Alt-8>', 'tab-focus 18')
 config.bind('<Ctrl-Alt-9>', 'tab-focus 19')
 config.bind('<Alt-9>', 'tab-focus 9')
 config.bind('<Alt-0>', 'tab-focus 10')
+config.bind('gT', 'cmd-set-text --space :tab-give')
+config.bind('tT', 'cmd-set-text --space :tab-take')
+config.bind('cr', 'config-source ~/.config/qutebrowser/config.py')
 # config.bind('<Alt-m>', 'tab-mute')
 # config.bind('<Ctrl-A>', 'navigate increment')
 # config.bind('<Ctrl-Alt-p>', 'print')
@@ -1968,8 +1998,10 @@ config.bind('<Alt-h>', 'tab-prev')
 # config.bind('<Ctrl-p>', 'tab-pin')
 # config.bind('<Ctrl-s>', 'stop')
 # config.bind('<Escape>', 'clear-keychain ;; search ;; fullscreen --leave')
+
 # config.bind('<F11>', 'fullscreen')
 config.bind(',r', 'reload')
+config.bind('z', 'search . ;; clear-keychain ;; search ;; fullscreen --leave')
 # config.bind('<Return>', 'follow-selected')
 config.bind('<Ctrl-h>', 'back')
 config.bind('<Ctrl-l>', 'forward')
@@ -2179,7 +2211,7 @@ config.bind('<Ctrl-c>', 'mode-leave', mode='hint')
 
 ## Bindings for insert mode
 # config.bind('<Ctrl-E>', 'open-editor', mode='insert')
-# config.bind('<Escape>', 'leave-mode', mode='insert')
+#config.bind('<Escape>', 'leave-mode', mode='insert')
 # config.bind('<Shift-Ins>', 'insert-text -- {primary}', mode='insert')
 
 ## Bindings for passthrough mode
@@ -2232,3 +2264,12 @@ config.source("./themes/gruvbox.py")
 #config.source("./themes/themes/default/base16-gruvbox-dark-hard.config.py")
 #import themes.dracula.draw
 #themes.dracula.draw.blood(c)
+config.bind('<Ctrl-c>', 'mode-leave', mode='insert')
+config.bind('<Ctrl-f>', 'fake-key <Ctrl-Right>', mode='insert')
+config.bind('<Ctrl-b>', 'fake-key <Ctrl-Left>', mode='insert')
+config.bind('<Ctrl-w>', 'fake-key <Ctrl-Backspace>', mode='insert')
+config.bind('<Ctrl-a>', 'fake-key <Home>', mode='insert')
+config.bind('<Ctrl-e>', 'fake-key <End>', mode='insert')
+config.bind('<Ctrl-u>', 'fake-key <End><Shift-Home><Delete>', mode='insert')
+config.bind('<Ctrl-j>', 'fake-key <Down>', mode='insert')
+config.bind('<Ctrl-k>', 'fake-key <Up>', mode='insert')
