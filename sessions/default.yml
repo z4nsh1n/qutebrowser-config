@@ -1,7 +1,7 @@
 windows:
 - geometry: !!binary |
-    AdnQywADAAAAAAAAAAAAAAAAB3MAAAQNAAAAAAAAAAAAAAd/AAAENwAAAAACAAAAB4AAAAAAAAAA
-    AAAAB3MAAAQN
+    AdnQywADAAAAAAAAAAAAAAAABZEAAANXAAAAAAAAAAAAAAWfAAADgwAAAAACAAAABaAAAAAAAAAA
+    AAAABZEAAANX
   tabs:
   - history:
     - active: true
@@ -17,6 +17,12 @@ windows:
   - history:
     - active: true
       last_visited: '2025-01-27T23:44:34'
+      title: Odin + Raylib tutorials - YouTube
+      url: https://www.youtube.com/playlist?list=PLxE7SoPYTef1jYHJ6NxNgocVjQKkq7eEa
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-02T13:21:22'
       pinned: false
       scroll-pos:
         x: 0
@@ -27,6 +33,12 @@ windows:
   - history:
     - active: true
       last_visited: '2025-01-27T23:44:28'
+      title: Quickproject - create a Common Lisp project skeleton
+      url: https://www.xach.com/lisp/quickproject/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-02T13:21:22'
       pinned: false
       scroll-pos:
         x: 0
@@ -88,6 +100,13 @@ windows:
   - history:
     - active: true
       last_visited: '2025-01-27T23:44:29'
+      title: 'OCaml for the Skeptical: OCaml in a Nutshell'
+      url: https://www2.lib.uchicago.edu/keith/ocaml-class/class-01.html
+      zoom: 1.0
+  - active: true
+    history:
+    - active: true
+      last_visited: '2025-01-02T13:21:23'
       pinned: false
       scroll-pos:
         x: 0
@@ -113,6 +132,12 @@ windows:
   - history:
     - active: true
       last_visited: '2025-01-27T23:44:28'
+      title: Category Theory Illustrated - Sets
+      url: https://abuseofnotation.github.io/category-theory-illustrated/01_set/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-02T13:21:23'
       pinned: false
       scroll-pos:
         x: 0
@@ -123,6 +148,12 @@ windows:
   - history:
     - active: true
       last_visited: '2025-01-27T23:44:28'
+      title: Roguelike tutorial for Common Lisp - Part 0 - Setup - nick forrer
+      url: https://nwforrer.github.io/posts/roguelike-tutorial-part0/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-02T13:21:31'
       pinned: false
       scroll-pos:
         x: 0
@@ -134,6 +165,13 @@ windows:
     history:
     - active: true
       last_visited: '2025-01-27T23:44:28'
+      title: "jakubtomsu/awesome-odin: A collection of awesome Odin libraries, bindings,
+        software and resources \U0001F9D9‍♂️✨"
+      url: https://github.com/jakubtomsu/awesome-odin
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-02T13:21:31'
       pinned: false
       scroll-pos:
         x: 0
@@ -141,10 +179,33 @@ windows:
       title: 'Zigistry: A package registry and manager for Zig | Find & Share Zig
         Packages'
       url: https://zigistry.dev/
+      title: 'ollama/ollama: Get up and running with Llama 3.3, Mistral, Gemma 2,
+        and other large language models.'
+      url: https://github.com/ollama/ollama
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-02T13:21:23'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: VoxelRifts - YouTube
+      url: https://www.youtube.com/@voxelrifts/videos
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-02T13:21:23'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'Odin + Raylib: Breakout game from start to finish - YouTube'
+      url: https://www.youtube.com/watch?v=vfgZOEvO0kM
       zoom: 1.0
 - geometry: !!binary |
-    AdnQywADAAAAAAAAAAAAAAAAB3MAAAQNAAAAAAAAAAAAAAd/AAAENwAAAAACAAAAB4AAAAAAAAAA
-    AAAAB3MAAAQN
+    AdnQywADAAAAAAAAAAAAAAAABZEAAANXAAAAAAAAAAAAAAWfAAADgwAAAAACAAAABaAAAAAAAAAA
+    AAAABZEAAANX
   tabs:
   - active: true
     history:
@@ -159,6 +220,46 @@ windows:
       zoom: 1.0
   - history:
     - active: true
+      last_visited: '2025-01-02T13:21:23'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: arch linux iwlwifi be202 - Google Zoeken
+      url: https://www.google.nl/search?q=arch%20linux%20iwlwifi%20%20be202
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-02T13:21:23'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'AX201 WiFi (iwlwifi) : r/archlinux'
+      url: https://www.reddit.com/r/archlinux/comments/1c9vl3f/ax201_wifi_iwlwifi/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-02T13:21:23'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: latest iwlwifi drivers - Google Zoeken
+      url: https://www.google.nl/search?q=latest%20iwlwifi%20drivers
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-02T13:21:23'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Linux* Support for Intel® Wireless Adapters
+      url: https://www.intel.com/content/www/us/en/support/articles/000005511/wireless.html
+      zoom: 1.0
+  - history:
+    - active: true
       last_visited: '2025-01-27T23:44:29'
       pinned: false
       scroll-pos:
@@ -170,6 +271,13 @@ windows:
   - history:
     - active: true
       last_visited: '2025-01-27T23:44:29'
+      title: kernel/git/firmware/linux-firmware.git - Repository of firmware blobs
+        for use with the Linux kernel
+      url: https://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git/about/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-02T13:21:23'
       pinned: false
       scroll-pos:
         x: 0
@@ -180,16 +288,34 @@ windows:
   - history:
     - active: true
       last_visited: '2025-01-27T23:44:34'
+      title: iwlwifi — Linux Wireless documentation
+      url: https://wireless.docs.kernel.org/en/latest/en/users/drivers/iwlwifi.html
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-02T13:21:23'
       pinned: false
       scroll-pos:
         x: 0
         y: 0
       title: c3 lang - Google Zoeken
       url: https://www.google.nl/search?q=c3+lang+&sca_esv=2e72d065ef487a51&biw=1908&bih=980&sxsrf=AHTn8zqt5v5w1-61lYS1f8xtGtwzqczG8A%3A1737989888902&ei=AJ-XZ8HRNuON9u8P8LGheA&ved=0ahUKEwjB0c3vlJaLAxXjhv0HHfBYCA84ChDh1QMIEA&uact=5&oq=c3+lang+&gs_lp=Egxnd3Mtd2l6LXNlcnAiCGMzIGxhbmcgMgQQIxgnMgQQIxgnMgQQIxgnSJKDAVCsIViWZHABeAGQAQCYAXKgAfYIqgEDOC40uAEDyAEA-AEBmAINoALnCsICChAAGLADGNYEGEfCAgUQABjvBcICCBAAGIAEGKIEwgIIEAAYgAQYywHCAgYQABgWGB7CAgUQABiABMICChAAGIAEGEMYigXCAgQQABgewgITEC4YgAQYsQMY0QMYgwEYxwEYCsICChAAGIAEGLEDGArCAgcQABiABBgKwgIKECMYgAQYJxiKBcICCxAAGIAEGLEDGIMBwgIIEAAYgAQYsQPCAgsQLhiABBjHARivAZgDAIgGAZAGCJIHBDMuMTCgB7xI&sclient=gws-wiz-serp
+      title: iwlwifi - Debian Wiki
+      url: https://wiki.debian.org/iwlwifi
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-02T13:21:23'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'Easy Linux Tips Project: Intel WiFi: install the latest driver'
+      url: https://easylinuxtipsproject.blogspot.com/p/intel-wifi.html
       zoom: 1.0
 - geometry: !!binary |
-    AdnQywADAAAAAAAAAAAAAAAAB3MAAAQNAAAAAAAAAAAAAAd/AAAENwAAAAACAAAAB4AAAAAAAAAA
-    AAAAB3MAAAQN
+    AdnQywADAAAAAAAAAAAAAAAABZEAAANXAAAAAAAAAAAAAAWfAAADgwAAAAACAAAABaAAAAAAAAAA
+    AAAABZEAAANX
   tabs:
   - active: true
     history:
@@ -199,10 +325,18 @@ windows:
       url: https://web.whatsapp.com/
     - active: true
       last_visited: '2025-01-27T23:44:53'
+    - last_visited: '2025-01-02T13:21:28'
+      pinned: false
+      title: file:///home/zanshin/index.html
+      url: file:///home/zanshin/index.html
+    - active: true
+      last_visited: '2025-01-02T13:23:00'
       pinned: false
       scroll-pos:
         x: 0
         y: 0
       title: (1) WhatsApp
       url: https://web.whatsapp.com/
+      title: i915drmfb crash - Google Zoeken
+      url: https://www.google.nl/search?q=i915drmfb%20crash
       zoom: 1.0
