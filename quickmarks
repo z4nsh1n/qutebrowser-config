@@ -326,6 +326,9 @@ compiling C to webassembly https://surma.dev/things/c-to-webassembly/
 learn opengl https://learnopengl.com/Getting-started/OpenGL
 zig interop interacting c https://zig.news/liyu1981/tips-for-interacting-with-c-1oo8
 stockcircle guru portfolios https://stockcircle.com/portfolio/seth-klarman#tabs
+<<<<<<< HEAD
+zigistry packages and programs https://zigistry.dev/
+=======
 The definitive c++ book list https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list
 The definitive C book list https://stackoverflow.com/questions/562303/the-definitive-c-book-guide-and-list
 haskell category theory https://abuseofnotation.github.io/category-theory-illustrated/
@@ -338,6 +341,7 @@ gmail start https://mail.google.com/mail/u/0/#starred
 gmail star https://mail.google.com/mail/u/0/#starred
 ocaml ffi C https://dev.realworldocaml.org/foreign-function-interface.html
  haskell for imperative programmers https://www.youtube.com/watch?v=pD7GmxBA_Qw&list=PLe7Ei6viL6jGp1Rfu0dil1JH1SHk9bgDV&index=24
+<<<<<<< HEAD
 rust cheat sheet https://cheats.rs/#data-layout
 zig interfaces 5x https://zig.news/yglcode/code-study-interface-idiomspatterns-in-zig-standard-libraries-4lkj
 zig interface easiest (compose) https://ethanfrei.com/posts/zig-interfaces.html
@@ -363,3 +367,6 @@ zig build system tricks https://ziggit.dev/t/build-system-tricks/3531
 awesome haskell 2 https://project-awesome.org/krispo/awesome-haskell
 rust to many linked lists https://rust-unofficial.github.io/too-many-lists/
 coding challenges, build your own https://codingchallenges.fyi/challenges/intro
+=======
+>>>>>>> 7551d8be26b44b09ff8062963a7d97defba0a753
+>>>>>>> d6ce47b4ea7d81099a83f87df1701234c02ff62e

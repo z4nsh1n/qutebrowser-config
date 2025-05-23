@@ -3,6 +3,106 @@ windows:
     AdnQywADAAAAAAAAAAAAAAAAAnwAAANcAAAAAAAAAAAAAAJ8AAABqQAAAAACAAAABaAAAAAAAAAA
     AAAAAnwAAANc
   tabs:
+  - history:
+    - active: true
+      last_visited: '2025-01-27T23:44:44'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'nvim-telekasten/telekasten.nvim: A Neovim (lua) plugin for working with
+        a markdown zettelkasten / wiki and mixing it with a journal, based on telescope.nvim'
+      url: https://github.com/nvim-telekasten/telekasten.nvim
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-27T23:44:34'
+      title: Odin + Raylib tutorials - YouTube
+      url: https://www.youtube.com/playlist?list=PLxE7SoPYTef1jYHJ6NxNgocVjQKkq7eEa
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-02T13:21:22'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: zig interfaces - Google Zoeken
+      url: https://www.google.nl/search?q=zig%20interfaces
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-27T23:44:28'
+      title: Quickproject - create a Common Lisp project skeleton
+      url: https://www.xach.com/lisp/quickproject/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-02T13:21:22'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Zig Interfaces
+      url: https://www.openmymind.net/Zig-Interfaces/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-27T23:44:29'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Basic Types and Values | C3
+      url: https://c3-lang.org/language-fundamentals/basic-types-and-values/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-27T23:44:29'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: C3 For C Programmers | C3
+      url: https://c3-lang.org/language-overview/primer/
+      zoom: 1.0
+  - active: true
+    history:
+    - active: true
+      last_visited: '2025-01-27T23:44:29'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 11457
+      title: Examples | C3
+      url: https://c3-lang.org/language-overview/examples/#contracts
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-27T23:44:28'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 4557
+      title: Attributes | C3
+      url: https://c3-lang.org/language-common/attributes/#local
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-27T23:44:29'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 94596
+      title: Standard Library Reference | C3
+      url: https://c3-lang.org/standard-library/stdlib_refcard/#stdiofile
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-27T23:44:29'
+      title: 'OCaml for the Skeptical: OCaml in a Nutshell'
+      url: https://www2.lib.uchicago.edu/keith/ocaml-class/class-01.html
+      zoom: 1.0
   - active: true
     history:
     - active: true
@@ -13,21 +113,116 @@ windows:
         y: 0
       title: Welcome to T3 Chat - T3 Chat
       url: https://t3.chat/chat/welcome
+      title: '(3062) C3 with Christoffer Lerno -- His career and how he brought us
+        the C3 language -- Conversation #6 - YouTube'
+      url: https://www.youtube.com/watch?v=9rS8MVZH-vA
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-27T23:44:29'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 24025
+      title: Standard Library Reference | C3
+      url: https://c3-lang.org/standard-library/stdlib_refcard/#stdcollectionsanylist
+      zoom: 1.0
+- geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAAAAAA1MAAAQNAAAAAAAAAAAAAAd/AAAENwAAAAACAAAAB4AAAAAAAAAA
+    AAAAA1MAAAQN
+  tabs:
+  - history:
+    - active: true
+      last_visited: '2025-01-27T23:44:28'
+      title: Category Theory Illustrated - Sets
+      url: https://abuseofnotation.github.io/category-theory-illustrated/01_set/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-02T13:21:23'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Roguelike Tutorial in Rust + tcod
+      url: https://tomassedovic.github.io/roguelike-tutorial/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-27T23:44:28'
+      title: Roguelike tutorial for Common Lisp - Part 0 - Setup - nick forrer
+      url: https://nwforrer.github.io/posts/roguelike-tutorial-part0/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-02T13:21:31'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: For loops | zig.guide
+      url: https://zig.guide/language-basics/for-loops/
+      zoom: 1.0
+  - active: true
+    history:
+    - active: true
+      last_visited: '2025-01-27T23:44:28'
+      title: "jakubtomsu/awesome-odin: A collection of awesome Odin libraries, bindings,
+        software and resources \U0001F9D9‍♂️✨"
+      url: https://github.com/jakubtomsu/awesome-odin
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-02T13:21:31'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'Zigistry: A package registry and manager for Zig | Find & Share Zig
+        Packages'
+      url: https://zigistry.dev/
+      title: 'ollama/ollama: Get up and running with Llama 3.3, Mistral, Gemma 2,
+        and other large language models.'
+      url: https://github.com/ollama/ollama
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-02T13:21:23'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: VoxelRifts - YouTube
+      url: https://www.youtube.com/@voxelrifts/videos
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-02T13:21:23'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'Odin + Raylib: Breakout game from start to finish - YouTube'
+      url: https://www.youtube.com/watch?v=vfgZOEvO0kM
       zoom: 1.0
 - geometry: !!binary |
     AdnQywADAAAAAAAAAAAAAAAAAwwAAANcAAAAAAAAAAAAAAJ8AAABqgAAAAACAAAABaAAAAAAAAAA
     AAAAAwwAAANc
   tabs:
-  - history:
+  - active: true
+    history:
     - active: true
       last_visited: '2025-05-06T02:05:13'
       original-url: https://codingchallenges.fyi/challenges/intro
+      last_visited: '2025-01-27T23:44:29'
       pinned: false
       scroll-pos:
         x: 0
         y: 0
       title: Coding Challenges - Intro | Coding Challenges
       url: https://codingchallenges.fyi/challenges/intro/
+      title: (3062) Code, Tech, and Tutorials - YouTube
+      url: https://www.youtube.com/@CodeTechandTutorials/playlists
       zoom: 1.0
   - history:
     - active: true
@@ -59,16 +254,25 @@ windows:
       title: 3.1 Introduction to Integers - Prealgebra 2e | OpenStax
       url: https://openstax.org/books/prealgebra-2e/pages/3-1-introduction-to-integers
       zoom: 1.0
-  - active: true
-    history:
+  - history:
     - active: true
       last_visited: '2025-05-06T02:05:12'
+      last_visited: '2025-01-27T23:44:29'
       pinned: false
       scroll-pos:
         x: 0
         y: 0
       title: 'Practical Design Patterns: Opaque Pointers and Objects in C | Interrupt'
       url: https://interrupt.memfault.com/blog/opaque-pointers
+      title: (3062) Eric O Meehan - YouTube
+      url: https://www.youtube.com/@eom-dev/videos
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-27T23:44:29'
+      title: kernel/git/firmware/linux-firmware.git - Repository of firmware blobs
+        for use with the Linux kernel
+      url: https://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git/about/
       zoom: 1.0
   - history:
     - active: true
@@ -79,6 +283,14 @@ windows:
         y: 0
       title: Top Books By Month | Hacker News Books
       url: https://hackernewsbooks.com/archives
+      title: (3062) YouTube
+      url: https://www.youtube.com/watch?v=KEV5OuQzgtc
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2025-01-27T23:44:34'
+      title: iwlwifi — Linux Wireless documentation
+      url: https://wireless.docs.kernel.org/en/latest/en/users/drivers/iwlwifi.html
       zoom: 1.0
   - history:
     - active: true
@@ -90,6 +302,11 @@ windows:
       title: Well-known tunes because of cracks/demos - Commodore 64 - Lemon64 - Commodore
         64
       url: https://www.lemon64.com/forum/viewtopic.php?t=85859
+      title: c3 lang - Google Zoeken
+      url: https://www.google.nl/search?q=c3+lang+&sca_esv=2e72d065ef487a51&biw=1908&bih=980&sxsrf=AHTn8zqt5v5w1-61lYS1f8xtGtwzqczG8A%3A1737989888902&ei=AJ-XZ8HRNuON9u8P8LGheA&ved=0ahUKEwjB0c3vlJaLAxXjhv0HHfBYCA84ChDh1QMIEA&uact=5&oq=c3+lang+&gs_lp=Egxnd3Mtd2l6LXNlcnAiCGMzIGxhbmcgMgQQIxgnMgQQIxgnMgQQIxgnSJKDAVCsIViWZHABeAGQAQCYAXKgAfYIqgEDOC40uAEDyAEA-AEBmAINoALnCsICChAAGLADGNYEGEfCAgUQABjvBcICCBAAGIAEGKIEwgIIEAAYgAQYywHCAgYQABgWGB7CAgUQABiABMICChAAGIAEGEMYigXCAgQQABgewgITEC4YgAQYsQMY0QMYgwEYxwEYCsICChAAGIAEGLEDGArCAgcQABiABBgKwgIKECMYgAQYJxiKBcICCxAAGIAEGLEDGIMBwgIIEAAYgAQYsQPCAgsQLhiABBjHARivAZgDAIgGAZAGCJIHBDMuMTCgB7xI&sclient=gws-wiz-serp
+      title: iwlwifi - Debian Wiki
+      url: https://wiki.debian.org/iwlwifi
+>>>>>>> d6ce47b4ea7d81099a83f87df1701234c02ff62e
       zoom: 1.0
   - history:
     - active: true
@@ -301,6 +518,13 @@ windows:
   - active: true
     history:
     - last_visited: '2025-05-07T00:30:18'
+    - last_visited: '2025-01-27T23:44:28'
+      pinned: false
+      title: WhatsApp
+      url: https://web.whatsapp.com/
+    - active: true
+      last_visited: '2025-01-27T23:44:53'
+    - last_visited: '2025-01-02T13:21:28'
       pinned: false
       title: ncurses update scree - Google Zoeken
       url: https://www.google.nl/search?q=ncurses%20update%20scree
@@ -330,4 +554,8 @@ windows:
         y: 0
       title: NCURSES Programming HOWTO
       url: https://invisible-island.net/ncurses/howto/NCURSES-Programming-HOWTO.html
+      title: (1) WhatsApp
+      url: https://web.whatsapp.com/
+      title: i915drmfb crash - Google Zoeken
+      url: https://www.google.nl/search?q=i915drmfb%20crash
       zoom: 1.0

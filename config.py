@@ -1248,6 +1248,37 @@ c.hints.selectors = {'all': ['a', 'area', 'textarea', 'select', 'input:not([type
                      'youtube' : ['ytd-guide-section-renderer'],
                      'inputs': ['input[type="text"]', 'input[type="date"]', 'input[type="datetime-local"]', 'input[type="email"]', 'input[type="month"]', 'input[type="number"]', 'input[type="password"]', 'input[type="search"]', 'input[type="tel"]', 'input[type="time"]', 'input[type="url"]', 'input[type="week"]', 'input:not([type])', '[contenteditable]:not([contenteditable="false"])', 'textarea']
                      }
+c.hints.selectors['myscrolls'] = [
+                               'body',
+                               'ul',
+                               'ol',
+                               'pre',
+                               'figure',
+                               
+                               '[id^="nav"]',
+                               '[class^="nav"]',
+                               ':root',
+                               #'ytd-app',
+                               #'ytd-browse',
+                               # 'div[id="navigation"]',
+                               # 'div[id="guide-inner-content"]',
+                               # '[player]',
+                               # '[contents]',
+                               #'[playlist]',
+                               #'[container]',
+                               #'div[id="below"]',
+                               #'[id*="container"]',
+                               #'[id*="header"]',
+                               #'[class*="header"]',
+                               #'[id*="content"]',
+                               #'[class*="content"]',
+                               #'[class*="container"]'  
+                               ]
+c.hints.selectors['headings'] = ['h1', 'h2', 'h3', 'h4', 'h5']
+c.hints.selectors['divs'] = ['div']
+
+config.bind(";s", 'hint myscrolls')
+config.bind(";D", 'hint divs')
 c.hints.selectors['headings'] = ['h1', 'h2', 'h3', 'h4', 'h5']
 c.hints.selectors['href'] = ['.flex']
 c.hints.selectors['grease'] = ['.__qb_scrollable__']
