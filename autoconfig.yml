@@ -6,5 +6,5 @@
 
 config_version: 2
 settings:
-  content.blocking.enabled:
+  colors.webpage.darkmode.enabled:
     global: true
